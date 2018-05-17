@@ -9,7 +9,7 @@
 ```
 -->
 ```html
-<q-r></q-r>
+<q-r title="btopro headshot image" data="https://www.elmsln.org/sites/redesign/files/styles/square-profile-portrait/public/headshot.jpg?itok=_1HEhahr" modulesize="3"></q-r>
 ```
 
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/LRNWebComponents/q-r)
