@@ -16,7 +16,10 @@
 
 # \<q-r\>
 
-A LRN element
+Present data as a QR code; useful for presenting media in an offline format or as a quick link when typing isn't an option.
+
+### Polyfill
+In order to run in Firefox, q-r requires that the browser get the full shadowDOM polyfill in order to operate. This is a larger polyfill the the recommended -lite variant and as a result will reduce performance to load initially. From andedotal testing it's about 30kb more to load in FF / IE /Edge and there is a slight performance cost in doing so.
 
 ## Install the Polymer-CLI
 
